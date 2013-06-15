@@ -11,7 +11,7 @@
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
-	<string>Twitter.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>Twitter-Inc.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -19,14 +19,10 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>PACKAGE_STRING</string>
 	<key>CFBundleSignature</key>
 	<string>AdIM</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
-	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2013 Charles Marshall. All rights reserved.</string>
-	<key>NSPrincipalClass</key>
-	<string>CampfireAdiumPluginWrapper</string>
+	<string>PACKAGE_VERSION</string>
 </dict>
 </plist>
