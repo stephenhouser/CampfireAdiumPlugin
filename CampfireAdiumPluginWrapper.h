@@ -1,5 +1,5 @@
-#import "../Adium/Frameworks/Adium Framework/Source/AIPlugin.h"
-#import "../Adium/Plugins/Purple Service/AILibpurplePlugin.h"
+#import "Adium/AIPlugin.h"
+#import "AdiumLibPurple/AILibpurplePlugin.h"
 
 @interface CampfireAdiumPluginWrapper : AIPlugin <AILibpurplePlugin> {}
 
